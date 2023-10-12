@@ -1,0 +1,20 @@
+{
+  "name": "knockoutcity-mod-create",
+  "version": "1.0.3",
+  "description": "A cli tool to create a knockoutcity mod template",
+  "author": "Tandashi",
+  "bin": {
+    "knockoutcity-mod-create": "dist/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "fs-extra": "^11.1.1",
+    "template-file": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.2",
+    "@types/node": "^20.8.5",
+    "typescript": "^5.2.2"
+  }
+}

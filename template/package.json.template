@@ -1,0 +1,13 @@
+{
+  "name": "{{ name }}",
+  "version": "1.0.0",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
+  "scripts": {},
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "knockoutcity-mod-loader": "1.0.0",
+    "typescript": "^5.2.2"
+  }
+}
