@@ -7,7 +7,7 @@
   "keywords": [],
   "license": "ISC",
   "devDependencies": {
-    "knockoutcity-mod-loader": "1.0.0",
+    "knockoutcity-mod-loader": "latest",
     "typescript": "^5.2.2"
   }
 }
