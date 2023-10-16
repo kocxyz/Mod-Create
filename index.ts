@@ -22,6 +22,12 @@ async function main() {
       name: 'author',
       message: 'What is the name of the author?',
     },
+    {
+      type: 'select',
+      name: 'type',
+      message: 'Which type of mod do you want to create?',
+      choices: ['server-client', 'server-only'],
+    },
   ]);
 
   response.name = response.name.toLocaleLowerCase().replaceAll(' ', '-');
