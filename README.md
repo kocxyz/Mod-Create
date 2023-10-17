@@ -5,5 +5,5 @@ A simple CLI tool that create a KnockoutCity Mod Template.
 **Usage**:
 
 ```bash
-npx knockoutcity-mod-create
+npm create knockoutcity-mod@latest
 ```
