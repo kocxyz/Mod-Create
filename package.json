@@ -1,6 +1,6 @@
 {
   "name": "create-knockoutcity-mod",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "A cli tool to create a knockoutcity mod template",
   "author": "Tandashi",
   "license": "ISC",
