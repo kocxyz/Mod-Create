@@ -41,8 +41,8 @@ async function main() {
   );
 
   fse.writeFileSync(
-    path.join(dir, 'manifest.yml'),
-    await renderFile(path.join(templateDir, 'manifest.yml.template'), response)
+    path.join(dir, 'manifest.yaml'),
+    await renderFile(path.join(templateDir, 'manifest.yaml.template'), response)
   );
 }
 
